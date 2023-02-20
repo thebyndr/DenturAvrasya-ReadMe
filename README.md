@@ -47,8 +47,10 @@ Dentur Avrasya Mobile Application
 
 ### 👨‍💻 Installation
 
-[![](https://img.shields.io/badge/App%20Store-black?logo=apple&logoColor=blue?)](https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr)
-[![](https://img.shields.io/badge/Play%20Store-black?logo=google&logoColor=blue?)](https://play.google.com/store/apps/details?id=com.denturavrasya)
+[![](https://img.shields.io/badge/App%20Store-white?style=for-the-badge&logo=apple&logoColor=black)](https://apps.apple.com/tr/app/dentur-avrasya/id6444819767?l=tr)
+
+
+[![](https://img.shields.io/badge/Play%20Store-white?style=for-the-badge&logo=google&logoColor=blue)](https://play.google.com/store/apps/details?id=com.denturavrasya)
 
 
 
